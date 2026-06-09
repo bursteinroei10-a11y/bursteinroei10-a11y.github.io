@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 60" fill="none">
+  <!-- J mark -->
+  <rect width="42" height="42" x="0" y="9" rx="4" fill="#111"/>
+  <text x="21" y="38" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="30" fill="white">J</text>
+  <!-- JAGGER wordmark -->
+  <text x="54" y="39" font-family="Arial Black, Impact, sans-serif" font-weight="900" font-size="22" letter-spacing="2" fill="#111">JAGGER</text>
+</svg>
